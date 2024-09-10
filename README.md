@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin! <br/><a href="https://github.com/kevind24/">Editor</a>, <a href="(https://www.linkedin.com/in/kevin-d-09218924/)">Cybersecurity Professional</a>
+<h1>Hi, I'm Kevin! <br/><a href="https://github.com/kevind24/">Cyber Security Professional</a>, <a href="(https://www.linkedin.com/in/kevin-d-09218924/)">Editor</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
